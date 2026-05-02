@@ -212,4 +212,3 @@ Free to use for educational purposes.
 
 ---
 
-# ⭐ If you like this project, give it a star and improve it further!
